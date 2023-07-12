@@ -1,0 +1,44 @@
+.schedule{
+    flex: 1;
+    height:250px;
+    padding: 10px;
+    .top{
+    .title{
+        text-align: left;
+        float: left;
+    }
+   .keyarrow{
+    text-align: right;
+float: right;
+color: grey;
+    }}
+
+    .bottom{
+        padding: 10px;
+        display: inline-block;
+
+    .s1{
+        font-size: small;
+        background-color: white;
+        border-left-color:rgb(155,221,121,1);
+        border-left-style:solid ;
+        margin-bottom: 10px;
+        padding: 5px;
+        .gray{
+            color: grey;
+        }  
+        
+}
+.s2{
+    font-size: small;
+    background-color: white;
+    border-left-color:blue;
+    border-left-style:solid ;
+    padding: 5px;
+    
+}
+.gray{
+    color: grey;
+}    
+}
+}

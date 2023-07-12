@@ -1,0 +1,64 @@
+.sidebar{
+    background-color: black;
+    color:white;
+    flex:1;
+    border-right: 0.5px solid white;
+    margin-top: 2.5rem;
+    border-radius: 15px;
+    margin-left: 20px;
+    height: 944px;
+    width: 280px;
+    
+    .top{
+    margin-top: 2.5em;
+    height: 100px;
+    margin-left: 3.1em;
+    }
+    .logo{
+        font-size: 2.25rem;
+        font-weight:700;
+        color:white;
+        
+    }
+}
+.center{
+    
+    font-size: 1.12em;
+    margin-left: 2.1em;
+    height:530px;
+    font-weight: 400;
+    ul{
+     list-style: none;
+    
+
+    
+
+    }
+    li{
+        display: flex;
+        align-items: center;
+        padding: 10px;
+        cursor:pointer;
+        height: 18px;
+
+    }
+    .icon{
+        padding-right: 15px;
+        font-size: 1.1em;
+        height: 18px;
+    }
+}
+    .bottom{
+        font-size: 0.9em;
+       
+       ul{
+list-style: none;
+margin-left: 3.1em;
+       }
+        li{display: flex;
+        align-items: center;
+        padding: 8px;
+        cursor: pointer;
+        }
+    }
+
